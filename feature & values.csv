@@ -1,0 +1,42 @@
+,type,locality,latitude,longitude,lease_type,gym,lift,swimming_pool,negotiable,furnishing,parking,property_size,property_age,bathroom,facing,cup_board,floor,total_floor,amenities,water_supply,building_type,balconies,rent
+no of unique values,9,1917,17733,17726,4,2,2,2,2,3,4,1141,44,8,8,19,23,27,4994,3,4,9,206
+values,['BHK2' 'BHK3' 'BHK1' 'RK1' 'BHK4' 'BHK4PLUS' '1BHK1' 'bhk2' 'bhk3' nan],"[nan 'Bellandur' 'Thiruvanmiyur' ...
+ 'Reliance Fresh, Whitefield Main Road, Industrial Area, Whitefield'
+ 'Koramangala 4th block'
+ 'Mahadevapura bus stop, Mahadevapura, Bengaluru, Karnataka, India']","[12.9344709  12.92955671 12.98287026 ... 12.965502   12.998645
+         nan]","[77.634471   77.6722797  80.26201214 ... 77.647694   77.57433582
+         nan]",['FAMILY' 'ANYONE' 'BACHELOR' 'COMPANY' nan],[1 0],[1 0],[1 0],[0 1],['SEMI_FURNISHED' 'FULLY_FURNISHED' 'NOT_FURNISHED'],['BOTH' 'TWO_WHEELER' 'NONE' 'FOUR_WHEELER'],[1250 1400 1350 ...  464 3040  415],"[ 25.   4.   6.   3.  15.   0.   5.  10.   2.   8.   7.   1.  12.   9.
+  16.  20.  11.  23.  22.  14.  -1.  30.  18.  13.  17.  40.  26.  35.
+  27.  45.  19.  80.  50.  33.  37.  34.  21.  28.  42.  60.  24.  49.
+ 400. 100.  nan]",[ 2.  3.  1.  4.  5. 21.  6.  7. nan],['E' 'NE' 'S' 'N' 'SE' 'W' 'NW' 'SW' nan],"[2.0000e+00 3.0000e+00 1.0000e+00 4.0000e+00 5.0000e+00 0.0000e+00
+ 6.0000e+00 1.0000e+01 7.0000e+00 8.0000e+00 9.0000e+00 1.5000e+01
+ 1.2000e+01 1.1000e+01 2.0000e+01 1.3000e+01 1.6000e+01 4.0000e+01
+ 4.8026e+04        nan]","[ 6.  3.  1.  0.  2. 11.  4. 14.  5.  9.  7. 10.  8. 13. 12. 16. 25. 17.
+ 20. 15. 18. 19. 22. nan]","[12.  4.  5.  2.  0.  9.  1. 14.  3. 15. 19. 20. 10.  8. 18.  6. 11. 24.
+ 13. 21.  7. 16. 25. 22. 17. 26. 23. nan]","['{""LIFT"":true,""GYM"":true,""INTERNET"":true,""AC"":false,""CLUB"":true,""INTERCOM"":true,""POOL"":true,""CPA"":true,""FS"":true,""SERVANT"":false,""SECURITY"":true,""SC"":true,""GP"":true,""PARK"":false,""RWH"":true,""STP"":true,""HK"":false,""PB"":true,""VP"":true}'
+ '{""LIFT"":true,""GYM"":false,""INTERNET"":false,""AC"":false,""CLUB"":false,""INTERCOM"":false,""POOL"":false,""CPA"":false,""FS"":false,""SERVANT"":false,""SECURITY"":true,""SC"":true,""GP"":false,""PARK"":true,""RWH"":true,""STP"":true,""HK"":false,""PB"":true,""VP"":true}'
+ '{""LIFT"":true,""GYM"":false,""INTERNET"":false,""AC"":false,""CLUB"":false,""INTERCOM"":false,""POOL"":false,""CPA"":true,""FS"":false,""SERVANT"":false,""SECURITY"":false,""SC"":true,""GP"":false,""PARK"":true,""RWH"":false,""STP"":false,""HK"":false,""PB"":true,""VP"":true}'
+ ...
+ '{""LIFT"":true,""GYM"":true,""INTERNET"":true,""AC"":false,""CLUB"":false,""INTERCOM"":true,""POOL"":true,""CPA"":true,""FS"":false,""SERVANT"":false,""SECURITY"":true,""SC"":true,""GP"":false,""PARK"":false,""RWH"":false,""STP"":false,""HK"":false,""PB"":true,""VP"":true}'
+ '{""LIFT"":true,""GYM"":true,""INTERNET"":true,""AC"":false,""CLUB"":true,""INTERCOM"":false,""POOL"":false,""CPA"":true,""FS"":false,""SERVANT"":false,""SECURITY"":true,""SC"":false,""GP"":false,""PARK"":true,""RWH"":false,""STP"":false,""HK"":false,""PB"":true,""VP"":false}'
+ nan]",['CORP_BORE' 'CORPORATION' 'BOREWELL' nan],['AP' 'IH' 'IF' 'GC' nan],[ 2.  3.  0.  1.  4.  5. 13.  6. 10. nan],"[40000. 22000. 28000.  8000. 45000. 18000. 32000. 10000. 19500. 12500.
+ 11000. 32500. 12000. 15000. 18500. 21000. 24000. 27000. 14000. 36000.
+ 20000. 16000.  9000. 25000. 48000. 31000. 19000. 50000. 30000. 17000.
+ 13500. 35000.  8400. 23000. 13000. 42000. 33000. 26000.  9500. 38000.
+ 10500. 27500. 16500. 29000. 17500. 14500.  8500. 18300. 11500. 21800.
+  9300. 23500. 41000. 21500.  8200. 24500. 39000. 14400. 26500. 15900.
+  9400. 44000. 22500. 20500. 43000. 37500. 12495. 38500. 28500. 15500.
+ 34000. 12800. 49000. 31500. 39500. 35500. 49500. 41500. 37000.  9800.
+ 25500. 12600. 16750. 11700.  9200. 10800. 10300. 11750.  8750. 21900.
+ 17300. 47500. 13800.  8800. 12200.  9600. 36500. 16471. 21200.  9100.
+ 47000.  9900. 25800. 17997. 19900. 29500. 12300. 48500. 15200. 24999.
+ 12700. 10250.  9700. 14900. 19750. 22800. 27900. 14300. 16300. 24997.
+ 46000. 13994. 11250. 13750. 10900. 16600. 16800. 19999. 14600.  8250.
+  8600. 33500. 13200. 11200.  8300. 14200.  9250. 13999. 22900. 16700.
+ 39100. 21999. 10600. 18350. 15700.  8100. 17900. 19700. 16950. 14800.
+ 19300. 17600. 16400. 20750. 25200.  9131. 30500. 14250. 10450. 18900.
+ 31600. 14700. 11900. 15750. 17292. 12900. 15800. 20700. 10750. 22200.
+ 18800. 13100.  8700. 49900. 36200. 11300.  8650. 13700. 32450. 12999.
+ 12950.  8498. 29900. 10400. 14750.  8900. 42500. 23700. 21250. 24700.
+ 29250. 29996. 10150. 24300.  8450. 17750. 17700. 21550. 15300. 23320.
+ 20250. 23999. 30300. 18712. 10200. 23150.    nan]"
