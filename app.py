@@ -7,7 +7,7 @@ print(os.getcwd())
 
 # Load the trained XGBoost model
 
-xgb_model = joblib.load(r'pikle_files\final_xgboost_model.pkl')
+xgb_model = joblib.load('pikle_files//final_xgboost_model.pkl')
 xgb_model = joblib.load('pikle_files//final_xgboost_model.pkl')
 
 # Load the one-hot encoding map for localities
