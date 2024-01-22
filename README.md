@@ -20,6 +20,20 @@ The XGBoost model achieved a commendable R2 score of 0.797 during evaluation. Th
 - **Locality Encoding with Geopy:** The model utilizes the Geopy library to obtain locality information from latitude and longitude coordinates. This information is then encoded to enhance accuracy, ensuring reliable predictions tailored to specific areas.
 
 - **Amenities Consideration:** Factors such as lift availability, gym access, internet connectivity, and more are taken into account for a comprehensive prediction.
+  
+## Feature Importances:
+Here are the feature importances from the XGBoost model:
+
+| Feature             | Importance |
+|---------------------|------------|
+| property_size       | 0.040874   |
+| POOL                | 0.029628   |
+| LIFT                | 0.021461   |
+| bathroom            | 0.017130   |
+| ...                 | ...        |
+| locality            | 0.793989   |
+
+The "locality" feature has a significant impact on rent predictions, contributing approximately 79.4% to the model's overall importance.
 
 ## How to Use:
 
