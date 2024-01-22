@@ -30,7 +30,7 @@ st.set_page_config(
 )
 
 st.title('Rent Prediction App')
-st.image('image\9113383.jpg',width=700)
+st.image('image//9113383.jpg',width=700)
 
 # Input form for the user to provide features
 property_type = st.selectbox('Property Type:', list(property_type_mapping.keys()))
