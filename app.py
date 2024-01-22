@@ -6,12 +6,9 @@ print(os.getcwd())
 
 
 # Load the trained XGBoost model
-<<<<<<< HEAD
 
 xgb_model = joblib.load(r'pikle_files\final_xgboost_model.pkl')
-=======
 xgb_model = joblib.load('pikle_files//final_xgboost_model.pkl')
->>>>>>> 2a8a5ee80e7a6f856754c412f198f20f99126f4f
 
 # Load the one-hot encoding map for localities
 locality_encoding_map_df = joblib.load('locality_encoding_map_df.pkl')
@@ -33,7 +30,7 @@ st.set_page_config(
 )
 
 st.title('Rent Prediction App')
-
+st.image('image\9113383.jpg',width=700)
 
 # Input form for the user to provide features
 property_type = st.selectbox('Property Type:', list(property_type_mapping.keys()))
